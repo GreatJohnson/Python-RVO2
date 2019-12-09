@@ -17,7 +17,7 @@ o1 = sim.addObstacle([(0.1, 0.1), (-0.1, 0.1), (-0.1, -0.1)])
 sim.processObstacles()
 
 sim.setAgentPrefVelocity(a0, (1, 1))
-sim.setAgentPrefVelocity(a1, (-1, 1))
+sim.setAgentPrefVelocity(a1, (0, 1))
 sim.setAgentPrefVelocity(a2, (-1, -1))
 sim.setAgentPrefVelocity(a3, (1, -1))
 
