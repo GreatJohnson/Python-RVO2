@@ -4,7 +4,7 @@ This version sets up some experiments of ORCA and add visulization module to the
 
 You can add different obstacles in the map to test each agent's obstacle-avoidance performance.
 
-You can also find the orginal source code (written in C++) in the website of ORCA, and we use Cython to use some of their function.
+You can also find the orginal source code (written in C++) in the website of ORCA, and we use Cython to use some of their functions.
 
 Optimal Reciprocal Collision Avoidance
 ======================================
