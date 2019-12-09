@@ -30,12 +30,14 @@
 # <http://gamma.cs.unc.edu/RVO2/>
 #
 
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 2.7)
+
 project(RVO)
 
 include(CTest)
 
 add_subdirectory(src)
+
 add_subdirectory(examples)
 
 include(CPack)
