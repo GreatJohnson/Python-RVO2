@@ -1,6 +1,8 @@
 Optimal Reciprocal Collision Avoidance
 ======================================
-This version set up some experiments of ORCA and add visulization module to the experiment in example2.py and example3.py.You can add different obstacles in the map to test each agent's obstacle-avoidance performance.
+This version set up some experiments of ORCA and add visulization module to the experiment in example2.py and example3.py.
+
+You can add different obstacles in the map to test each agent's obstacle-avoidance performance.
 
 Optimal Reciprocal Collision Avoidance
 ======================================
